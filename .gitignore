@@ -1,0 +1,6 @@
+# Local tooling and private working notes: never part of the public site
+.claude/
+.remember/
+notes/
+
+.DS_Store
